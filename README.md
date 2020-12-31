@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Adding the removing feature was challenging. 
+Adding the removing feature was challenging. Couldn't add walkthrough to github Logon failed with correct credentials. 
 
 ## License
 
